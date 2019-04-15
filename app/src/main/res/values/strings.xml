@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="welcome_toast">Toast</string>
+    <string name="default_message">Wiadomość</string>
+    <string name="log">Log</string>
+    <string name="rewrite_message">Przepisz wiadomość</string>
+    <string name="rewrite_text">Przepisana wiadomość</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="button">Przycisk</string>
+    <string name="left">Lewy</string>
+    <string name="right">Prawy</string>
+    <string name="password">hasło</string>
+    <string name="login">login</string>
+    <string name="zaloguj">ZALOGUJ</string>
+    <string name="logsuccess">Logowanie udane</string>
+    <string name="pass">Pawel</string>
+    <string name="logg">android</string>
+
+</resources>
